@@ -1,4 +1,4 @@
-# Celey: Asynchronous backend tasks for Flask
+# Celery: Asynchronous Backend Tasks with Flask
 
 As a part of a team developing a SaaS E-commerce/Travel Recommender System, I developed the backend infrastructure for data pipelines to function asynchronously. These documents show the setup of this framework that are specfic to our project but should be useful to anyone trying to understand the framework for setting up asynchronous tasks with Flask.
 
